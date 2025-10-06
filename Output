@@ -1,0 +1,35 @@
+Select Task:
+1. Employee Sorting
+2. Student Filter & Sort
+3. Product Stream Operations
+4. Exit
+
+Sorted by name: [Alice | Age: 30 | Salary: 50000.0, Bob | Age: 25 | Salary: 60000.0, Charlie | Age: 28 | Salary: 55000.0]
+Sorted by age: [Bob | Age: 25 | Salary: 60000.0, Charlie | Age: 28 | Salary: 55000.0, Alice | Age: 30 | Salary: 50000.0]
+Sorted by salary (desc): [Bob | Age: 25 | Salary: 60000.0, Charlie | Age: 28 | Salary: 55000.0, Alice | Age: 30 | Salary: 50000.0]
+
+Select Task:
+1. Employee Sorting
+2. Student Filter & Sort
+3. Product Stream Operations
+4. Exit
+
+Students with marks > 75 sorted by marks:
+Alice
+Charlie
+
+Select Task:
+1. Employee Sorting
+2. Student Filter & Sort
+3. Product Stream Operations
+4. Exit
+
+Grouped by category: {Electronics=[Laptop | Electronics | 70000.0, Smartphone | Electronics | 50000.0], Clothing=[Jeans | Clothing | 2000.0, Shirt | Clothing | 1500.0], Accessories=[Watch | Accessories | 10000.0]}
+Most expensive in each category: {Electronics=Optional[Laptop | Electronics | 70000.0], Clothing=Optional[Jeans | Clothing | 2000.0], Accessories=Optional[Watch | Accessories | 10000.0]}
+Average price of all products: 26500.0
+
+Select Task:
+1. Employee Sorting
+2. Student Filter & Sort
+3. Product Stream Operations
+4. Exit
